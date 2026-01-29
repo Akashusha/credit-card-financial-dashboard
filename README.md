@@ -1,6 +1,7 @@
 # Credit Card Financial Dashboard
 
-![Uploading image.png…]()
+<img width="1303" height="736" alt="image" src="https://github.com/user-attachments/assets/44b82f04-9a55-4795-a57d-84013c924843" />
+
 
 
 ## 📊 Project Overview
