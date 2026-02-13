@@ -1,6 +1,6 @@
 # Credit Card Financial Dashboard
 
-<img width="1303" height="736" alt="image" src="https://github.com/user-attachments/assets/44b82f04-9a55-4795-a57d-84013c924843" />
+<img width="1365" height="780" alt="image" src="https://github.com/user-attachments/assets/e831b944-e6d5-4085-8d4a-d855407d8872" />
 
 
 
